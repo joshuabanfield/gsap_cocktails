@@ -14,11 +14,11 @@ const Cocktails = () => {
         })
         parallaxTimeline
         .from('#c-left-leaf', {
-            x: -100, y: 10,
+            x: -100, y: -25,
 
         })
         .from('#c-right-leaf', {
-            x: 100, y: 10,
+            x: 100, y: 25,
         })
     })
 
